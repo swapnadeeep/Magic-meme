@@ -52,7 +52,7 @@ export function Footer() {
              <h4 className="font-semibold mb-4">Connect</h4>
             <div className="flex space-x-4">
               <a
-  href="https://www.instagram.com/yourprofile"
+  href="https://www.instagram.com/swapnadeep989"
   target="_blank"
   rel="noopener noreferrer"
   className="text-gray-400 hover:text-white transition-colors"
