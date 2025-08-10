@@ -23,7 +23,7 @@ export function Footer() {
               <li>Easy Sharing</li>
             </ul>
           </div>
-          <div>
+{/*           <div>
             <h4 className="font-semibold mb-4">Support</h4>
             <ul className="space-y-2 text-gray-400">
               <li>
@@ -48,8 +48,8 @@ export function Footer() {
               </li>
             </ul>
           </div>
-          <div>
-            <h4 className="font-semibold mb-4">Connect</h4>
+          <div> */}
+{/*             <h4 className="font-semibold mb-4">Connect</h4>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-white transition-colors">
                 <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
@@ -72,10 +72,20 @@ export function Footer() {
                 </svg>
               </a>
             </div>
-          </div>
+          </div> */}
+                  <div>
+                    <h4 class="font-semibold mb-4">Connect</h4>
+                    <div class="flex space-x-4">
+                        </a>
+                        <a href="https://www.instagram.com/swapnadeep989?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" class="text-gray-400 hover:text-white transition-colors">
+                            <i class="fab fa-instagram text-xl"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
         </div>
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 MemeGen Pro. All rights reserved. Powered by Imgflip API.</p>
+          <p>&copy; 2025 MemeGen Pro. All rights reserved. Build by Swapnadeep. Powered by Imgflip API.</p>
         </div>
       </div>
     </footer>
